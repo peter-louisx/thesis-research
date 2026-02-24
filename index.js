@@ -1,5 +1,5 @@
 const limit = 1000;
-const token = "a8fb8f0108dbb116f614ab3fb8e96dcbac7ca694";
+const token = "ff3862f3dfd3ce723b5515ee625821a136605ddb";
 
 const queries = {
   MBG: [
@@ -24,10 +24,10 @@ const queries = {
     // "MBG since:2025-06-12 until:2025-06-18 lang:id", 166
     // "MBG since:2025-06-19 until:2025-07-04 lang:id", 208
     // "MBG since:2025-07-05 until:2025-07-11 lang:id", 145
-    "MBG since:2025-07-12 until:2025-07-18 lang:id",
-    "MBG since:2025-07-19 until:2025-08-04 lang:id",
-    "MBG since:2025-08-05 until:2025-08-11 lang:id",
-    "MBG since:2025-08-12 until:2025-08-18 lang:id",
+    // "MBG since:2025-07-12 until:2025-07-18 lang:id", 140
+    // "MBG since:2025-07-19 until:2025-08-04 lang:id", 210
+    // "MBG since:2025-08-05 until:2025-08-11 lang:id", 187
+    // "MBG since:2025-08-12 until:2025-08-18 lang:id", 158
     "MBG since:2025-08-19 until:2025-09-04 lang:id",
     "MBG since:2025-09-05 until:2025-09-11 lang:id",
     "MBG since:2025-09-12 until:2025-09-18 lang:id",
