@@ -43,4 +43,26 @@ const queries = {
     // "MBG since:2025-12-19 until:2025-12-26 lang:id", 174
     // "MBG since:2025-12-27 until:2025-12-31 lang:id", 181
   ],
+  "RUU TNI": [
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-01 until:2025-03-03 lang:id",14
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-04 until:2025-03-06 lang:id",47
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-07 until:2025-03-09 lang:id", 21
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-10 until:2025-03-12 lang:id",57
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-13 until:2025-03-15 lang:id",64
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-16 until:2025-03-18 lang:id", 219
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-19 until:2025-03-21 lang:id", 235
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-22 until:2025-03-24 lang:id", 115
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-25 until:2025-03-27 lang:id", 192
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-03-28 until:2025-04-01 lang:id", 151
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-02 until:2025-04-04 lang:id", 121
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-05 until:2025-04-07 lang:id", 140
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-08 until:2025-04-10 lang:id", 140
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-11 until:2025-04-13 lang:id", 99
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-14 until:2025-04-16 lang:id", 143
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-17 until:2025-04-19 lang:id", 155
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-20 until:2025-04-22 lang:id", 59
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-23 until:2025-04-25 lang:id", 79
+    "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-26 until:2025-04-28 lang:id",
+    "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-29 until:2025-05-01 lang:id",
+  ],
 };
