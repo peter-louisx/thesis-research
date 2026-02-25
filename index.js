@@ -28,19 +28,19 @@ const queries = {
     // "MBG since:2025-07-19 until:2025-08-04 lang:id", 210
     // "MBG since:2025-08-05 until:2025-08-11 lang:id", 187
     // "MBG since:2025-08-12 until:2025-08-18 lang:id", 158
-    "MBG since:2025-08-19 until:2025-09-04 lang:id",
-    "MBG since:2025-09-05 until:2025-09-11 lang:id",
-    "MBG since:2025-09-12 until:2025-09-18 lang:id",
-    "MBG since:2025-09-19 until:2025-10-04 lang:id",
-    "MBG since:2025-10-05 until:2025-10-11 lang:id",
-    "MBG since:2025-10-12 until:2025-10-18 lang:id",
-    "MBG since:2025-10-19 until:2025-11-04 lang:id",
-    "MBG since:2025-11-05 until:2025-11-11 lang:id",
-    "MBG since:2025-11-12 until:2025-11-18 lang:id",
-    "MBG since:2025-11-19 until:2025-12-04 lang:id",
-    "MBG since:2025-12-05 until:2025-12-11 lang:id",
-    "MBG since:2025-12-12 until:2025-12-18 lang:id",
-    "MBG since:2025-12-19 until:2025-12-26 lang:id",
-    "MBG since:2025-12-27 until:2025-01-03 lang:id",
+    // "MBG since:2025-08-19 until:2025-09-04 lang:id", 214
+    // "MBG since:2025-09-05 until:2025-09-11 lang:id", 168
+    // "MBG since:2025-09-12 until:2025-09-18 lang:id", 195
+    // "MBG since:2025-09-19 until:2025-10-04 lang:id", 252
+    // "MBG since:2025-10-05 until:2025-10-11 lang:id", 213
+    // "MBG since:2025-10-12 until:2025-10-18 lang:id", 208
+    // "MBG since:2025-10-19 until:2025-11-04 lang:id", 255
+    // "MBG since:2025-11-05 until:2025-11-11 lang:id", 199
+    // "MBG since:2025-11-12 until:2025-11-18 lang:id", 219
+    // "MBG since:2025-11-19 until:2025-12-04 lang:id", 223
+    // "MBG since:2025-12-05 until:2025-12-11 lang:id", 184
+    // "MBG since:2025-12-12 until:2025-12-18 lang:id", 223
+    // "MBG since:2025-12-19 until:2025-12-26 lang:id", 174
+    // "MBG since:2025-12-27 until:2025-12-31 lang:id", 181
   ],
 };
