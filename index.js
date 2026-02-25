@@ -62,7 +62,7 @@ const queries = {
     // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-17 until:2025-04-19 lang:id", 155
     // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-20 until:2025-04-22 lang:id", 59
     // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-23 until:2025-04-25 lang:id", 79
-    "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-26 until:2025-04-28 lang:id",
-    "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-29 until:2025-05-01 lang:id",
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-26 until:2025-04-28 lang:id", 79
+    // "RUU TNI OR #TolakRUUTNI OR #TolakDwifungsiABRI OR #TolakRevisiUUTNI since:2025-04-29 until:2025-05-01 lang:id", 59
   ],
 };
