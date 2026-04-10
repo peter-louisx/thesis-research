@@ -1,7 +1,0 @@
-algorithm,silhouette,davies_bouldin,n_clusters,n_noise
-K-Means,-0.0294,5.1796,20,0
-DBSCAN,-0.1141,2.1323,19,8
-SOM,-0.1062,5.2074,221,0
-GMM,-0.0322,5.5477,20,0
-Mean Shift,-0.0117,2.7222,6,0
-BERTopic,-0.0023,1.7582,3,119
